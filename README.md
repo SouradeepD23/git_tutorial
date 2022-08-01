@@ -16,3 +16,5 @@ main 4
 main 5
 
 conflict 1
+
+conflict 2
