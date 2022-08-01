@@ -13,4 +13,6 @@ main 3
 
 rebase 1
 
+rebase 2
+
 main 4
