@@ -11,3 +11,5 @@ feature 2
 main 3
 
 rebase 1
+
+rebase 2
