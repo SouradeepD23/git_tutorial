@@ -11,4 +11,6 @@ feature 2
 
 main 3
 
+rebase 1
+
 main 4
